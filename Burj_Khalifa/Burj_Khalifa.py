@@ -1,8 +1,8 @@
-print("Program for Burj Khalifa")
+print("Program for Burj Khalifa Pattern")
 
 print("=========================================================")
 
-n = int(input("Please enter Raw number: "))
+n = int(input("Please enter row number: "))
 
 def startPrintingFunction(total, row):
     for raw in range(total):
